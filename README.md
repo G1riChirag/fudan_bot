@@ -16,18 +16,18 @@ By mastering moderation and security fundamentals within Discord servers, my per
 
 ### Usage
 
-*Installation: Clone the repository. To install the required dependencies, using pip install discord.
-*Configuration: Modify the fudan.py file to include your Discord bot token.
-*Running the Bot: Execute the fudan.py file to start the bot. Ensure that the bot has the necessary permissions in your Discord server.
-*Commands: Use various commands prefixed with ! to interact with the bot. See the help command for a list of available commands and their usage.
+* Installation: Clone the repository. To install the required dependencies, using pip install discord.
+* Configuration: Modify the fudan.py file to include your Discord bot token.
+* Running the Bot: Execute the fudan.py file to start the bot. Ensure that the bot has the necessary permissions in your Discord server.
+* Commands: Use various commands prefixed with ! to interact with the bot. See the help command for a list of available commands and their usage.
 
 ### Features
 
-*Word Banning: Ban specific words from being used in messages.
-*User Management: Kick, ban, and unban users from the server.
-*Message Purging: Delete a specified number of messages from a channel.
-*Voice Channel Management: Mute and unmute members in voice channels.
-*Event Logging: Log message deletions, edits, role changes, channel creations, and deletions.
+* Word Banning: Ban specific words from being used in messages.
+* User Management: Kick, ban, and unban users from the server.
+* Message Purging: Delete a specified number of messages from a channel.
+* Voice Channel Management: Mute and unmute members in voice channels.
+* Event Logging: Log message deletions, edits, role changes, channel creations, and deletions.
 
 ### Future Enhancements
 
